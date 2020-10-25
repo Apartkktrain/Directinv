@@ -1,0 +1,6 @@
+name: Direct-Inv
+main: Apartkktrain\dinv\Main
+description: 破壊時にブロックを直接in!
+author: Apartkktrain
+api: 3.12.0
+version: 1.0.0
